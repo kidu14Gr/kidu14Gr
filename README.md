@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kidus-girma-521864297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://kidus-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/kidus-girma-521864297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kidus-portfolio-orpin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:kidugirma24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -15,7 +15,7 @@
 I'm a **Computer Science graduate** from Hawassa University and currently work as a **Jr. AI Engineer** at IE Networks Solutions. I specialize in building intelligent, scalable applications by combining **Full-Stack Development** with **AI/ML capabilities**.
 
 - 🔭 Currently working on **AI feature integration** into web applications
-- 🎓 **BSc in Computer Science** | CGPA: 3.64 | National Exit Exam: 72
+- 🎓 **BSc in Computer Science** - HAWASSA UNIVERSITY
 - 🏅 **Microsoft Certified** Azure Data Scientist Associate
 - 🌍 Based in **Addis Ababa, Ethiopia**
 
@@ -76,6 +76,8 @@ I'm a **Computer Science graduate** from Hawassa University and currently work a
 | **AI Goal Recommendation** | Fine-tuned AI models + RAG for OKR setting based on company hierarchy | `RAG` `LLM` `Fine-tuning` |
 | **Demand Prediction Model** | ML model for inventory forecasting with live CI/CD data pipeline | `ML` `CI/CD` `Python` |
 | **OKR Chatbot** | RAG-based chatbot for employee OKR guidance and support | `Chatbot` `RAG` `NLP` |
+| **HU Fleet Management** | Full-stack fleet management system for vehicle records, assignments & fuel tracking | `MERN Stack` `Web Dev` |
+| **Art School Website** | Responsive bilingual website for showcasing artwork, courses & institutional info | `PHP` `HTML/CSS` `JS` |
 
 ---
 
