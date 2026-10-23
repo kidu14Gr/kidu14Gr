@@ -202,11 +202,7 @@ I'm a **Full-Stack AI Engineer** at **IE Networks Solutions PLC** with **3+ year
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidu14Gr&layout=compact&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kidu14Gr&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-</p>
 
-<br/>
 
 ---
 
