@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/kidus-girma-521864297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://kidus-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="mailto:kidugirma24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://kidus-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Ask_Kimem_%F0%9F%A4%96-1a1a2e?style=for-the-badge" alt="Ask Kimem"/></a>
+  <a href="https://kidus-portfolio-orpin.vercel.app/#chat"><img src="https://img.shields.io/badge/Ask_Kimem_%F0%9F%A4%96-1a1a2e?style=for-the-badge" alt="Ask Kimem"/></a>
 </p>
 
 <br/>
@@ -38,7 +38,7 @@ I'm a **Full-Stack AI Engineer** at **IE Networks Solutions PLC** with **3+ year
 - 🎓 &nbsp;**BSc in Computer Science** — Hawassa University (CGPA 3.64)
 - 🏅 &nbsp;**3× Microsoft Certified** — Azure AI Engineer, Data Scientist & Administrator Associate
 - 🌍 &nbsp;Based in **Addis Ababa, Ethiopia**
-- 💬 &nbsp;**Meet Kimem** — my portfolio's AI assistant. [Ask Kimem about me →](https://kidus-portfolio-orpin.vercel.app/)
+- 💬 &nbsp;**Meet Kimem** — my portfolio's AI assistant. [Ask Kimem about me →](https://kidus-portfolio-orpin.vercel.app/#chat)
 
 <br/>
 
